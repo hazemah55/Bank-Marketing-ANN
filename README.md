@@ -52,6 +52,19 @@ The reported validation ROC-AUC indicates strong discrimination between the two 
 - Apply additional hyperparameter tuning.
 - Build a Streamlit application for customer response prediction.
 
+
+## Dataset Source
+
+This project uses the **Binary Classification with a Bank Dataset** dataset from Kaggle's Playground Series (Season 5, Episode 8).
+
+The training dataset contains **750,000 records and 18 columns**, including customer demographics, financial information, marketing campaign details, and the target variable `y`.
+
+**Dataset:** [Kaggle — Binary Classification with a Bank Dataset](https://www.kaggle.com/competitions/playground-series-s5e8/data)
+
+The dataset files are not included in this repository. Download `train.csv`, `test.csv`, and `sample_submission.csv` from Kaggle to reproduce the project.
+
+
+
 ## Author
 
 **Hazem Ahmed Wageh**
